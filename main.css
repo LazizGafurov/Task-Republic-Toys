@@ -1,0 +1,598 @@
+.home-page {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.overlap-wrapper {
+  background-color: #fff;
+  overflow: hidden;
+  width: 1600px;
+  height: 5568px;
+}
+.overlap {
+  position: relative;
+  width: 1695px;
+  height: 5568px;
+}
+.overlap-group {
+  position: absolute;
+  width: 1695px;
+  height: 5568px;
+  top: 0;
+  left: 0;
+}
+.line {
+  width: 1190px;
+  height: 1px;
+  top: 2942px;
+  left: 410px;
+  position: absolute;
+  object-fit: cover;
+}
+.group {
+  position: absolute;
+  width: 1415px;
+  height: 320px;
+  top: 3372px;
+  left: 205px;
+}
+.div {
+  position: relative;
+  height: 320px;
+}
+.group-2 {
+  position: absolute;
+  width: 1380px;
+  height: 320px;
+  top: 0;
+  left: 35px;
+}
+.overlap-group-wrapper {
+  position: absolute;
+  width: 332px;
+  height: 320px;
+  top: 0;
+  left: 0;
+}
+.overlap-group-2 {
+  position: relative;
+  width: 330px;
+  height: 320px;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.overlap-group-3 {
+  position: absolute;
+  width: 300px;
+  height: 188px;
+  top: 0;
+  left: 10px;
+}
+.quotation-open {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  top: 0;
+  left: 0;
+}
+.text-wrapper {
+  position: absolute;
+  width: 290px;
+  top: 20px;
+  left: 10px;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.img {
+  width: 328px;
+  height: 1px;
+  top: 230px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+.group-3 {
+  position: absolute;
+  width: 152px;
+  height: 48px;
+  top: 251px;
+  left: 19px;
+}
+.text-wrapper-2 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  white-space: nowrap;
+}
+.text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--text-grey);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.ellipse {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 251px;
+  left: 261px;
+}
+.div-wrapper {
+  position: absolute;
+  width: 332px;
+  height: 320px;
+  top: 0;
+  left: 350px;
+}
+.overlap-group-4 {
+  position: absolute;
+  width: 300px;
+  height: 140px;
+  top: 0;
+  left: 10px;
+}
+.group-4 {
+  position: absolute;
+  width: 90px;
+  height: 48px;
+  top: 251px;
+  left: 19px;
+}
+.group-5 {
+  left: 700px;
+  position: absolute;
+  width: 332px;
+  height: 320px;
+  top: 0;
+}
+.overlap-group-5 {
+  position: relative;
+  width: 330px;
+  height: 320px;
+  border-radius: 4px;
+}
+.quotation-open-2 {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  top: 0;
+  left: 10px;
+}
+.rectangle {
+  position: absolute;
+  width: 330px;
+  height: 320px;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.p {
+  position: absolute;
+  width: 218px;
+  height: 72px;
+  top: 0;
+  left: 20px;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.line-2 {
+  position: absolute;
+  width: 328px;
+  height: 1px;
+  top: 231px;
+  left: 1px;
+  object-fit: cover;
+}
+.group-6 {
+  position: absolute;
+  width: 116px;
+  height: 48px;
+  top: 252px;
+  left: 20px;
+}
+.ellipse-2 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 252px;
+  left: 262px;
+}
+.group-7 {
+  left: 1050px;
+  position: absolute;
+  width: 332px;
+  height: 320px;
+  top: 0;
+}
+.line-3 {
+  width: 309px;
+  height: 1px;
+  top: 230px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+.rectangle-2 {
+  position: absolute;
+  width: 205px;
+  height: 320px;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+}
+.rectangle-3 {
+  position: absolute;
+  width: 40px;
+  height: 320px;
+  top: 0;
+  left: 1357px;
+  background-color: #fff;
+}
+.rectangle-4 {
+  position: absolute;
+  width: 160px;
+  height: 320px;
+  top: 0;
+  left: 1197px;
+  transform: rotate(180deg);
+  background: linear-gradient(
+    180deg,
+    #fff 0%,
+    #fff 25.88%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.rectangle-5 {
+  position: absolute;
+  width: 160px;
+  height: 320px;
+  top: 0;
+  left: 206px;
+  background: linear-gradient(
+    180deg,
+    #fff 0%,
+    #fff 25.88%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.group-8 {
+  position: absolute;
+  width: 1490px;
+  height: 320px;
+  top: 3032px;
+  left: 205px;
+}
+.group-9 {
+  position: absolute;
+  width: 1380px;
+  height: 320px;
+  top: 0;
+  left: 110px;
+}
+.group-10 {
+  position: absolute;
+  width: 167px;
+  height: 48px;
+  top: 252px;
+  left: 20px;
+}
+.group-11 {
+  position: absolute;
+  width: 125px;
+  height: 48px;
+  top: 252px;
+  left: 20px;
+}
+.overlap-2 {
+  position: absolute;
+  width: 330px;
+  height: 320px;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+}
+.line-4 {
+  width: 234px;
+  top: 231px;
+  left: 1px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 3118px;
+  left: 6890px;
+}
+.line-5 {
+  position: absolute;
+  width: 1600px;
+  height: 1px;
+  top: 110px;
+  left: 0;
+  object-fit: cover;
+}
+.line-6 {
+  width: 1px;
+  height: 111px;
+  top: 0;
+  left: 780px;
+  position: absolute;
+  object-fit: cover;
+}
+.line-7 {
+  width: 1px;
+  height: 111px;
+  top: 0;
+  left: 965px;
+  position: absolute;
+  object-fit: cover;
+}
+.line-8 {
+  width: 1px;
+  height: 111px;
+  top: 0;
+  left: 1150px;
+  position: absolute;
+  object-fit: cover;
+}
+.line-9 {
+  width: 1px;
+  height: 111px;
+  top: 1px;
+  left: 1335px;
+  position: absolute;
+  object-fit: cover;
+}
+.line-10 {
+  width: 1px;
+  height: 111px;
+  top: 0;
+  left: 595px;
+  position: absolute;
+  object-fit: cover;
+}
+.text-wrapper-4 {
+  position: absolute;
+  top: 44px;
+  left: 833px;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.rectangle-6 {
+  position: absolute;
+  width: 10px;
+  height: 5568px;
+  top: 0;
+  left: 1590px;
+  background-color: var(--checkbox-grey);
+}
+.rectangle-7 {
+  position: absolute;
+  width: 10px;
+  height: 153px;
+  top: 465px;
+  left: 1590px;
+  background-color: var(--supporting-color);
+}
+.line-11 {
+  width: 411px;
+  height: 1px;
+  top: 173px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+.line-12 {
+  width: 1px;
+  height: 1636px;
+  top: 0;
+  left: 410px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.overlap-5 {
+  position: absolute;
+  width: 700px;
+  height: 64px;
+  top: 300px;
+  left: 410px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.overlap-group-7 {
+  position: absolute;
+  width: 700px;
+  height: 64px;
+  top: 216px;
+  left: 410px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.overlap-6 {
+  position: absolute;
+  width: 700px;
+  height: 64px;
+  top: 384px;
+  left: 410px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.overlap-7 {
+  position: absolute;
+  width: 700px;
+  height: 64px;
+  top: 468px;
+  left: 410px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--line-color);
+}
+.rectangle-9 {
+  position: absolute;
+  width: 185px;
+  height: 110px;
+  top: 0;
+  left: 780px;
+  background-color: #d9d9d903;
+  opacity: 0.01;
+  transition: background-color 0.3s, opacity 0.3s;
+}
+.rectangle-9:hover {
+  background-color: #db2d37;
+  opacity: 0.8;
+  border: 2px solid #333;
+}
+.footer {
+  position: absolute;
+  width: 1600px;
+  height: 432px;
+  top: 5136px;
+  left: 0;
+  background-color: var(--checkbox-grey);
+}
+.overlap-8 {
+  position: relative;
+  width: 1600px;
+  height: 432px;
+}
+.socially {
+  position: absolute;
+  width: 111px;
+  height: 144px;
+  top: 40px;
+  left: 820px;
+}
+.text-wrapper-11 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.text-wrapper-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.text-wrapper-13 {
+  position: absolute;
+  top: 82px;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.text-wrapper-14 {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--main-black);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.group-49 {
+  position: absolute;
+  width: 330px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+.frame-5 {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  top: 40px;
+  left: 115px;
+}
+.group-50 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 26px;
+  left: 306px;
+  background-color: var(--supporting-color);
+  border-radius: 24px;
+}
+.h1 {
+  position: absolute;
+  width: 290px;
+  top: 20px;
+  left: 20px;
+  font-family: "SF Pro";
+  font-weight: 590;
+  font-size: 24px;
+  line-height: normal;
+  color: #10142d;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+:root {
+  --main-black: rgba(16, 20, 45, 1);
+  --text-grey: rgba(184, 184, 184, 1);
+  --main-white: rgba(255, 255, 255, 1);
+  --line-color: rgba(225, 225, 225, 1);
+  --checkbox-grey: rgba(243, 243, 243, 1);
+  --supporting-color: rgba(219, 45, 55, 1);
+}
